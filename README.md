@@ -1,4 +1,4 @@
-# AnExplorationOfFibonacciPowers
+# An Exploration Of Continued Fractions of Fibonacci Powers
 
 ## Abstract
 
